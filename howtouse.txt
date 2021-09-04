@@ -1,0 +1,7 @@
+Linux:
+sudo pip install -r requirements.txt
+
+Windows:
+python=3.8
+conda install fiona
+pip install -r requirements.txt
