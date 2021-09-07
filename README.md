@@ -5,7 +5,13 @@ This repo constructs a GUI to search and download the Landsat-8 satellite data f
 Tips about building environment are described in howtouse.txt
 * Clone repository
 
-      git clone https://github.com/Rayhchs/20210727_PoJuiHuang.git
-      cd 20210727_PoJuiHuang
+      git clone https://github.com/Rayhchs/Landsat-8_data_downloader.git
+      cd Landsat-8_data_downloader
       
-*
+* Usage
+
+      python -m GUI
+      
+* For simple usage
+
+      python
