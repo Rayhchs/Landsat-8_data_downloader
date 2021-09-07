@@ -12,7 +12,8 @@ Tips about building environment are described in howtouse.txt
 
       python -m GUI
       
- 
+ The interface:
+ <img src="https://github.com/Rayhchs/Landsat-8_data_downloader/blob/main/GUI_ex.png" alt="Editor" width="600" title="GUI">
       
 * For simple usage
 
