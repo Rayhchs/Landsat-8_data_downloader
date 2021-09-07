@@ -35,3 +35,7 @@ Tips about building environment are described in howtouse.txt
  | ------------- | ------------- |------------- |
  | --cloud_cover | -c | cloud coverage (1~100) |
  | --num_of_data | -n | number of data (within 50) |
+ 
+ ## Reference
+ 
+ https://github.com/awslabs/open-data-docs/tree/main/docs/landsat-pds
