@@ -1,6 +1,9 @@
 # Landsat-8 data downloader
 This repo constructs a GUI to search and download the Landsat-8 satellite data from AWS: https://registry.opendata.aws/landsat-8/.  The GUI needs users to define cloud coverage, number of data, and coordinate when searching the data. Users can search data by giving those parameters. Afterward, users can select and download the data. Also, a simply version (without search function) for using is uploaded. It provides users to download latest satellite images from giving coordinate, cloud coverage and numbers of data to download.
 
+## Requisite
+python 3.8
+
 ## Getting Started
 Tips about building environment are described in howtouse.txt
 * Clone repository
