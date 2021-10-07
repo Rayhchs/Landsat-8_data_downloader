@@ -3,9 +3,10 @@ This repo constructs a GUI to search and download the Landsat-8 satellite data f
 
 ## Requisite
 python 3.8
+fiona
+Tips about building environment are described in howtouse.txt
 
 ## Getting Started
-Tips about building environment are described in howtouse.txt
 * Clone repository
 
       git clone https://github.com/Rayhchs/Landsat-8_data_downloader.git
